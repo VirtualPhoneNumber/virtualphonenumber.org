@@ -23,7 +23,9 @@ The [Free SMS Receiver](https://t.me/FreeSmsReceiver) via Telegram is your go-to
 ### Private Phone Bot
 
 For those seeking privacy and longevity, the [Private Phone Bot](https://t.me/PrivatePhoneBot) provides private number rentals, ensuring a secure and exclusive way to receive SMS or calls.
-Our Distinctive Features
+
+Our Distinctive Features:
+
 🔒 Privacy: Each number is exclusively yours, ensuring your communications remain confidential.
 
 📆 Flexibility: Tailor your rental duration to fit your specific needs, offering unparalleled adaptability.
